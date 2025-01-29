@@ -1,10 +1,7 @@
 Bu dasturda ombordagi kelgan va ketgan mahsulotlar statistikasini yurutib borish uchun ishlatiladi.
 ![1](https://github.com/user-attachments/assets/96db6a9e-ee58-4c0e-a11f-317144455cb1)
 
-![1 1](https://github.com/user-attachments/assets/937729af-fa8b-4a2b-b575-e4239cd288d7)
-
-![1 1](https://github.com/user-attachments/assets/f5a50f06-76d7-41be-8af2-d9ee5f3c5047)
-
+![1 1](https://github.com/user-attachments/assets/288de80c-1508-4cfd-a47b-9a74a71a91b8)
 
 ![2](https://github.com/user-attachments/assets/62316016-1b58-4aad-8c75-487613670354)
 
