@@ -3,6 +3,9 @@ Bu dasturda ombordagi kelgan va ketgan mahsulotlar statistikasini yurutib borish
 
 ![1 1](https://github.com/user-attachments/assets/937729af-fa8b-4a2b-b575-e4239cd288d7)
 
+![1 1](https://github.com/user-attachments/assets/f5a50f06-76d7-41be-8af2-d9ee5f3c5047)
+
+
 ![2](https://github.com/user-attachments/assets/62316016-1b58-4aad-8c75-487613670354)
 
 ![3](https://github.com/user-attachments/assets/bf331964-999b-49ac-ad4c-b7b3b7b6ed8a)
