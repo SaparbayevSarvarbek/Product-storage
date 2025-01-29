@@ -1,16 +1,8 @@
-# flutter_app
+Bu dasturda ombordagi kelgan va ketgan mahsulotlar statistikasini yurutib borish uchun ishlatiladi.
+![1](https://github.com/user-attachments/assets/96db6a9e-ee58-4c0e-a11f-317144455cb1)
 
-A new Flutter project.
+![2](https://github.com/user-attachments/assets/62316016-1b58-4aad-8c75-487613670354)
 
-## Getting Started
+![3](https://github.com/user-attachments/assets/bf331964-999b-49ac-ad4c-b7b3b7b6ed8a)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/user-attachments/assets/3efc9d17-fbb9-4067-9258-467383a50f68)
